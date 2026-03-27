@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "モエチャッカファイア",
   "base_artist": "エレン・ジョー(CV:若山詩音)",
-  "createdAt": "2026-03-20T09:08:23.787026Z",
+  "createdAt": "2026-03-27T05:45:02.043575Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "エレン・ジョー(CV:若山詩音)",
       "has_synced": true,
       "path": "select/localdb_01_モエチャッカファイア_エレン・ジョー(CV_若山詩音).lrc",
+      "repo_name": "rTqYRWcA-Yw"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "モエチャッカファイア",
+      "artist": "エレン・ジョー(CV:若山詩音)",
+      "has_synced": true,
+      "path": "select/localdb_02_モエチャッカファイア_エレン・ジョー(CV_若山詩音).lrc",
       "repo_name": "Y2_FSvacEg0"
     }
   ]
